@@ -1,5 +1,5 @@
 # Rohini-Suryawanshi-
-![logo](https://github.com/Rohiniarjunsuryawanshi/Rohini-Suryawanshi-/blob/5d501e787daa5db550624e8f9f0461c782253735/WhatsApp%20Image%202026-03-17%20at%2010.29.53%20PM.jpeg)
+![logo](https://github.com/Rohiniarjunsuryawanshi/Rohiniarjunsuryawanshi/blob/f1f0333251d67b63871daeb8372adcad12f11220/WhatsApp%20Image%202026-03-17%20at%2010.29.53%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Rohini arjun suryawanshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

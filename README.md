@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohiniarjunsuryawanshi&label=Profile%20views&color=0e75b6&style=flat" alt="rohiniarjunsuryawanshi" /> </p>
 
-- 🌱 I’m currently learning **computer science**In College:SSIEMS,Parbhani And University:DBATU,Lonere
+- 🌱 I’m currently learning **computer science**  In College:SSIEMS,Parbhani And University:DBATU,Lonere
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohiniarjunsuryawanshi/portfolio-website.git](https://github.com/Rohiniarjunsuryawanshi/portfolio-website.git)
 

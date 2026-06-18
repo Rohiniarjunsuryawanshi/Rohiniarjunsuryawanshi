@@ -1,7 +1,8 @@
 # Rohini-Suryawanshi-
 ![logo](https://github.com/Rohiniarjunsuryawanshi/Rohiniarjunsuryawanshi/blob/f1f0333251d67b63871daeb8372adcad12f11220/WhatsApp%20Image%202026-03-17%20at%2010.29.53%20PM.jpeg)
+<h1 align="center">Welcome To My GitHub Profile!</h1>
 <h1 align="center">Hi 👋, I'm Rohini arjun suryawanshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">B.Tech Computer Science Student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohiniarjunsuryawanshi&label=Profile%20views&color=0e75b6&style=flat" alt="rohiniarjunsuryawanshi" /> </p>
 

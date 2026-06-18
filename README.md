@@ -8,6 +8,9 @@
 
 - 🌱 I’m currently learning **computer science**
 
+-College:SSIEMS,Parbhani 
+-University:DBATU,Lonere
+
 - 👨‍💻 All of my projects are available at [https://github.com/Rohiniarjunsuryawanshi/portfolio-website.git](https://github.com/Rohiniarjunsuryawanshi/portfolio-website.git)
 
 - 📫 How to reach me **rohinisuryawanshi9322@gmail.com**
@@ -27,3 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohiniarjunsuryawanshi&show_icons=true&locale=en&layout=compact" alt="rohiniarjunsuryawanshi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohiniarjunsuryawanshi&show_icons=true&locale=en" alt="rohiniarjunsuryawanshi" /></p>
+<h1 align="center">Thank You For Visiting My Profile</h1>

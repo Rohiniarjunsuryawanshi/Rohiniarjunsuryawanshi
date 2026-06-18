@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning **computer science**
 
--College:SSIEMS,Parbhani 
--University:DBATU,Lonere
+.College:SSIEMS,Parbhani 
+.University:DBATU,Lonere
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohiniarjunsuryawanshi/portfolio-website.git](https://github.com/Rohiniarjunsuryawanshi/portfolio-website.git)
 
